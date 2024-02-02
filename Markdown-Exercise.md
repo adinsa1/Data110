@@ -1,6 +1,6 @@
-Author: Assefa Dinsa
-Professor: Muhammad
-DATA110
+Author: Assefa Dinsa,
+Professor: Muhammad,
+DATA110,
 24 January 2014
 
 # Markdown Exercise
