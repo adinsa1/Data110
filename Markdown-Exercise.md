@@ -9,13 +9,13 @@ DATA110,
 
 ### Bold
 
-#### ** This sentence is written in bold**
-#### _ This sentence is also written in bold_
+ ** This sentence is written in bold**
+ _ This sentence is also written in bold_
 
 ### Italics
 
-#### * This text is in italics*
-#### _ This text is also in italics_
-#### _ This text shows **combined** bold and italics texts
+ * This text is in italics*
+ _ This text is also in italics_
+ _ This text shows **combined** bold and italics texts
 
    
