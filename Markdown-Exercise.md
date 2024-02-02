@@ -1,7 +1,5 @@
 Author: Assefa Dinsa,
-Professor: Muhammad,
-DATA110,
-24 January 2014
+24 January 2024
 
 # Markdown Exercise
 
@@ -19,3 +17,9 @@ DATA110,
 ## Lists
 
 ### Unordered
+#### *1 Name
+#### *2 Date of Birth
+##### *2a Month
+##### *2b Date
+
+## Ordered
