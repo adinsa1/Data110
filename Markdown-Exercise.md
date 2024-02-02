@@ -17,9 +17,9 @@ Author: Assefa Dinsa,
 ## Lists
 
 ### Unordered
-#### *1 Name
-#### *2 Date of Birth
-##### *2a Month
-##### *2b Date
+> - 1 Name
+> - 2 Date of Birth
+##### 2a Month
+##### 2b Date
 
 ## Ordered
