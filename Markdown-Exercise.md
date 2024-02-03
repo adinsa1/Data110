@@ -68,10 +68,19 @@ This is very `imprtant`
 
 ## 7. Tables
 
-
 |Year    |Profit   |
 |--------|---------|
 |2022    |$200.00  |
 |--------|---------|
 |2023    |$250.00  |
 
+## 8. Task Lists
+
+- [x] Getup at 11:00 am in the morning
+- [ ] Eat breakfast
+- [ ] Walk for an hour
+- [ ] Start studying
+
+## 9. Footnotes
+
+I got this information from a news paper[^1].
