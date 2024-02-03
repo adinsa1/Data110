@@ -77,8 +77,8 @@ This is very `imprtant`
 ## 8. Task Lists
 
 - [x] Getup at 11:00 am in the morning
-- [ ] Eat breakfast
-- [ ] Walk for an hour
+- [x] Eat breakfast
+- [x] Walk for an hour
 - [ ] Start studying
 
 ## 9. Footnotes
