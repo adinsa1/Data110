@@ -17,7 +17,7 @@
 #### *This text is in italics*.
 
 ### Bold and Italics 
-#### ***This text is in bold and italic***.
+#### ***This text is both in bold and italics***.
 
 
 ## Lists
