@@ -8,15 +8,15 @@
 
 # Markdown Home Work
 
-## Emphasis
+## 1. Emphasis
 
-### Bold
+### 1.1 Bold
  This word is written in **bold**.
 
-### Italics
+### 1.2 Italics
 #### *This text is in italics*.
 
-### Bold and Italics 
+### 1.3 Bold and Italics 
 #### ***This text is both in bold and italics***.
 
 
