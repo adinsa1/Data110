@@ -11,8 +11,8 @@
 ## Emphasis
 
 ### Bold
-#### **This sentence is written in bold**
-#### _This sentence is also written in bold_
+ This word is written in **bold**.
+ This word is also written in _bold_.
 
 ### Italics
 #### *This text is in italics*
