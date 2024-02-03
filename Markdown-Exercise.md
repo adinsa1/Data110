@@ -1,7 +1,12 @@
-Author: Assefa Dinsa,
+ Assefa Dinsa
+
+ Professor Muhammad
+
+ Data110
+ 
 24 January 2024
 
-# Markdown Exercise
+# Markdown Home Work
 
 ## Emphasis
 
