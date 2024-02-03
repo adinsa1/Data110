@@ -34,7 +34,7 @@
    2.3. Date
 
 
-## 2.2 Unrdered
+## 2.2 Unrdered Lists
 - Go to store
 - Buy food items
     - Cook pasta
