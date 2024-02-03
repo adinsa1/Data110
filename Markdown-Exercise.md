@@ -51,3 +51,19 @@ My favorite search engine is [GitHub] (https://github.com/repository)
 ## 5. Blockquotes
 
 > I am practicing Markdown.
+
+## 6. Inline code and code blocks
+
+6.1. Inline Code
+
+This is very `imprtant`
+
+6.2. Code Blocks
+```
+{
+"firstName: "Idris"
+"lastName: "Ali"
+}
+```
+
+
