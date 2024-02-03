@@ -46,5 +46,5 @@ My favorite search engine is [GitHub] (https://github.com/repository)
 
 ## 4. Immages
 
-![MC logo] (/immages/mclogo.png)
+![Himalayan Persian cat](https://simple.wikipedia.org/wiki/Himalayan_Persian#/media/File:Seal_point_himalayan.jpg
 
