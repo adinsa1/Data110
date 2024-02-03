@@ -48,3 +48,6 @@ My favorite search engine is [GitHub] (https://github.com/repository)
 
 ![Himalayan Persian cat](https://simple.wikipedia.org/wiki/Himalayan_Persian#/media/File:Seal_point_himalayan.jpg
 
+## 5. Blockquotes
+
+> I am practicing Markdown.
