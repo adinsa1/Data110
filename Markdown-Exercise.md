@@ -20,13 +20,18 @@
 #### ***This text is both in bold and italics***.
 
 
-## Lists
+## 2. Lists
 
-### Unordered
-> - 1 Name
-> - 2 Date of Birth
-##### 2a Month
-##### 2b Date
+### 2.1 Ordered Lists
+1. Name of customer
+  
+2. Date of Birth
 
-## Ordered
+   2.1. Year
+   
+   2.2. Month
+   
+   2.3. Date
+
+## Unrdered
 
