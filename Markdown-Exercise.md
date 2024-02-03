@@ -33,5 +33,12 @@
    
    2.3. Date
 
-## Unrdered
+
+## 2.2 Unrdered
+- Go to store
+- Buy food items
+    - Cook pasta
+    - Invite a friend
+    - Eat at home
+      
 
